@@ -24,21 +24,6 @@ theme:
     - navigation.instant
     - navigation.top
 
-extra:
-  social:
-    - icon: fontawesome/solid/home
-      link: https://advaly.co.jp
-      name: Official Website
-    - icon: fontawesome/brands/github
-      link: https://github.com/advaly
-      name: Advaly System on Github
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/ADVALY
-      name: Advaly System on Facebook
-    - icon: fontawesome/brands/line
-      link: https://lin.ee/7o4E0Xt
-      name: Advaly System on LINE
-
 extra_css:
   - css/custom.css
 
