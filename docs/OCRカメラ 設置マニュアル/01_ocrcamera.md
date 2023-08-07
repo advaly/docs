@@ -1,4 +1,4 @@
-## 1. OCRカメラ本体
+# 1. OCRカメラ本体
 
 ![](img/ocrcam_desc.png)
 
