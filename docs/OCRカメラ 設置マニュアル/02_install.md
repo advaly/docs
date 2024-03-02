@@ -60,8 +60,9 @@ LEDが違う表示をしている場合は、付録の**OCRカメラ基本動作
 ### 2.3 画像の確認
 
 Webブラウザで所定のURLにアクセスし、ログインしてください。
+(URLによっては所属コードの入力が必要な場合があります。管理者にご確認ください)
 
-![](img/cloud_home.png)
+![](img/cloud_home2.png)
 
 <div style="page-break-before:always"></div>
 
